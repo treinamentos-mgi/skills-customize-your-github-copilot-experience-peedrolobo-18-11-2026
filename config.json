@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-fastapi-apis",
+      "title": "Testando APIs com pytest",
+      "description": "Pratique testes automatizados para APIs FastAPI com pytest, TestClient, respostas HTTP e validação de dados.",
+      "path": "assignments/testing-fastapi-apis",
+      "dueDate": "2026-11-25",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
